@@ -1,0 +1,143 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: source-sans;
+}
+
+@font-face{
+	font-family: source-sans;
+	src 	   : url('../font-family/source-sans-pro/SourceSansPro-Regular.ttf');
+}
+.top1 {
+    width: 100%;
+    height: 100%;
+    display: block;
+    background: url('../images/Website-Design-Background.png');
+    background-size: cover;
+}
+
+.top1 .container.text-center {
+    padding: 23% 0;
+}
+
+.top1 .container h1 {
+    font-size: 500%;
+}
+
+.top1 p {
+    font-size: 160%;
+}
+
+.top1 a.btn.btn-default {
+    background: #777;
+    border: none;
+    color: #fff;
+    border-radius: 0;
+    font-size: 150%;
+    padding: 1%;
+}
+.top2 p {
+    font-size: 140%;
+}
+
+.top2 .container.text-center {
+    padding: 2% 0;
+}
+.top3 {
+    background: rgb(36, 117, 187);
+    color: #fff;
+}
+
+.top3 h2 {
+    font-weight: 500;
+}
+
+.top3 hr.vienduoi {
+    width: 10%;
+    margin: 0 auto;
+}
+
+.row.tieude2 {
+    padding-bottom: 2%;
+}
+
+.icon.fa.fa-cloud {
+    background: #fff;
+    color: rgb(36, 117, 187);
+    font-size: 400%;
+    border-radius: 50%;
+    padding: 9%;
+}
+
+.top3 a.btn.btn-default {
+    border-radius: 0;
+    border: none;
+    padding: 3% 7%;
+    margin-top: 6%;
+}
+
+.top3 .container {
+    padding: 60px 0;
+}
+.top4.anhnen {
+    background: url('../images/bo-hinhnen-bokeh-dep-20.jpg');
+}
+
+.top4 h2 {
+    padding: 10% 0;
+    font-size: 320%;
+    color: #fff;
+}
+.top5 img.img-responsive {
+    margin-bottom: 10px;
+}
+
+.top5 img.img-responsive:hover {
+    opacity: 0.8;
+}
+
+.top5 a.btn.btn-default.viewmoreitem {
+    border: none;
+    border-radius: 0;
+    background: #777;
+    color: #fff;
+}
+
+.top5 .text-center {
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+.top6 {
+    background: rgb(36, 117, 187);
+}
+
+.top6 .container {
+    padding: 4% 0;
+    color: #fff;
+}
+
+.top6 a.btn {
+    border: none;
+    border-radius: 0;
+    font-size: 170%;
+    margin-top: 2%;
+}
+
+.top6 a.btn.btn-primary {
+    background: #000;
+}
+
+.top6 a.btn.btn-default {
+    margin-right: 20px;
+}
+
+.top6 h3 {
+    font-size: 270%;
+}
+.footer h4 {
+    font-size: 174%;
+}
+
+.footer p {
+    font-size: 87%;
+}
